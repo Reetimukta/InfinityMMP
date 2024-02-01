@@ -18,7 +18,7 @@ master - 2 commits
 				
 						+ 3 commits 
 
-Signup : create an account
+
 
 Steps to push your code from Eclipse into Github  for the firt time:
 -----------------------------------------------------------
